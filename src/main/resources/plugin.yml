@@ -1,0 +1,4 @@
+name: wahrheit
+version: '${version}'
+main: de.traumi.wahrheit.Wahrheit
+api-version: '1.20'

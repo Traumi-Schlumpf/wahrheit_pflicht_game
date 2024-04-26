@@ -1,0 +1,17 @@
+package de.traumi.wahrheit;
+
+import org.bukkit.plugin.java.JavaPlugin;
+
+public final class Wahrheit extends JavaPlugin {
+
+    @Override
+    public void onEnable() {
+        // Plugin startup logic
+
+    }
+
+    @Override
+    public void onDisable() {
+        // Plugin shutdown logic
+    }
+}
